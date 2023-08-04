@@ -1,4 +1,5 @@
 <a id="anchor"></a>
+![Nuget](https://img.shields.io/nuget/v/AspNetCore.IQueryable.Extensions)![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/brunohbrito/AspNetCore.IQueryable.Extensions/14)[![Build Status](https://dev.azure.com/brunohbrito/AspNetCore.IQueryable.Extensions/_apis/build/status/brunohbrito.AspNetCore.IQueryable.Extensions?branchName=master)](https://dev.azure.com/brunohbrito/AspNetCore.IQueryable.Extensions/_build/latest?definitionId=16&branchName=master)
 
 # Hosting---My-first-site
 ## Hosting---My-first-site
